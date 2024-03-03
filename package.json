@@ -1,0 +1,17 @@
+{
+	"name": "crud-operations",
+	"version": "1.0.0",
+	"description": "dev AmexDev",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "AmetDev",
+	"license": "ISC",
+	"keywords": [],
+	"dependencies": {
+		"cli-table": "^0.3.11",
+		"readline-sync": "^1.4.10"
+	}
+}
